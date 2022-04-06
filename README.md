@@ -17,3 +17,9 @@ You can configure the amount of points in visualize.py - line 8
 
 ![image](https://user-images.githubusercontent.com/92131037/161886701-1f79dce4-9916-43bc-a691-0c928b121942.png)
 
+dependencies
+============
+
+matplotlib - pip install matplotlib
+
+https://matplotlib.org/
